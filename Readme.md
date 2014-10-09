@@ -12,8 +12,12 @@
 
 ## Installation
 
-  Just download this repository and unzip it's content right into your 
-  ```wp-content/plugins``` directory.
+  Run the following commands in your ```wp-content/plugins``` directory:
+
+```bash
+$ git clone https://github.com/marcusandre/wp-mustache.git .
+$ git submodule init && git submodule update
+```
 
 ## Usage
 
