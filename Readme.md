@@ -12,11 +12,12 @@
 
 ## Installation
 
-  Run the following commands in your ```wp-content/plugins``` directory:
+  Type the following command into your ```wp-content/plugins``` directory and
+  enable the **WP-Mustache** plugin in the plugins section in of your Wordpress
+  admin dashboard.
 
 ```bash
-$ git clone https://github.com/marcusandre/wp-mustache.git .
-$ git submodule init && git submodule update
+$ git clone --recursive https://github.com/marcusandre/wp-mustache.git
 ```
 
 ## Usage
