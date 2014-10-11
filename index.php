@@ -4,7 +4,7 @@
  * Plugin Name: WP-Mustache
  * Plugin URI: https://github.com/marcusandre/wp-mustache
  * Description: Integrate logic-less templating into your Wordpress themes.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Marcus André
  * Author URI: http://marcusandre.de/
  * License: MIT
